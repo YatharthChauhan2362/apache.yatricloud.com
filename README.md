@@ -1,2 +1,2 @@
-# apache.yatricloud.com
+# nginx.yatricloud.com
 Powered by webxela.com
